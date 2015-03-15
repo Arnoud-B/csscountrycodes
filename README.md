@@ -1,7 +1,8 @@
 # Country codes in CSS
+
 ## Introduction
-With the included stylesheet and sprite image (based on famfamfam's flag icons), it's easy to automatically show the correct flag in front of any name or country anywhere on your site. Long lists load faster due to the use of a sprite imagee
-.
+With the included stylesheet and sprite image (based on famfamfam's flag icons), it's easy to automatically show the correct flag in front of any name or country anywhere on your site. Long lists load faster due to the use of a sprite image.
+
 ## Country list
 The list of world countries is based on the list of ISO 3166 codes for countries in existence at the time of last update:
 
